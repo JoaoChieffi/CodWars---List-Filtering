@@ -1,0 +1,11 @@
+C:\Desenvolvimento\CodWars\List Filtering\bin\Debug\netcoreapp2.2\List Filtering.deps.json
+C:\Desenvolvimento\CodWars\List Filtering\bin\Debug\netcoreapp2.2\List Filtering.runtimeconfig.json
+C:\Desenvolvimento\CodWars\List Filtering\bin\Debug\netcoreapp2.2\List Filtering.runtimeconfig.dev.json
+C:\Desenvolvimento\CodWars\List Filtering\bin\Debug\netcoreapp2.2\List Filtering.dll
+C:\Desenvolvimento\CodWars\List Filtering\bin\Debug\netcoreapp2.2\List Filtering.pdb
+C:\Desenvolvimento\CodWars\List Filtering\obj\Debug\netcoreapp2.2\List Filtering.csprojAssemblyReference.cache
+C:\Desenvolvimento\CodWars\List Filtering\obj\Debug\netcoreapp2.2\List Filtering.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\CodWars\List Filtering\obj\Debug\netcoreapp2.2\List Filtering.AssemblyInfoInputs.cache
+C:\Desenvolvimento\CodWars\List Filtering\obj\Debug\netcoreapp2.2\List Filtering.AssemblyInfo.cs
+C:\Desenvolvimento\CodWars\List Filtering\obj\Debug\netcoreapp2.2\List Filtering.dll
+C:\Desenvolvimento\CodWars\List Filtering\obj\Debug\netcoreapp2.2\List Filtering.pdb
