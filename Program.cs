@@ -9,7 +9,8 @@ namespace List_Filtering
     {    
          static void Main(string[] args)
         {
-            GetIntegersFromList(new List<object>(){1,2,"aasf","1","123",123});
+             //Teste.
+             GetIntegersFromList(new List<object>(){1,2,"aasf","1","123",123});
         }
 
        public static IEnumerable<int> GetIntegersFromList(List<object> listOfItems)
